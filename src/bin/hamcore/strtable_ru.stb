@@ -216,7 +216,7 @@ ERR_148					The VPN connection was disconnected because the system is being susp
 # Concerning licenses
 LICENSE_INFO_URL		https://selinks.org/?new_license
 LICENSE_SUPPORT_URL		https://selinks.org/?q=license_info&id=%s
-LICENSE_STATUS_OK		Валидный
+LICENSE_STATUS_OK		Действительный
 LICENSE_STATUS_EXPIRED	Истек
 LICENSE_STATUS_ID_DIFF	Server ID Mismatch
 LICENSE_STATUS_DUP		Дубликат
